@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/anthonyanader/pen/zKOZXN.
+This is my personal portfolio page that I will be progressively working on. All input is welcome.
 
  
