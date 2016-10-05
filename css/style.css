@@ -24,23 +24,17 @@ body{
 	
 }
 
-#skills{
-	
-}
-
 #cover-caption{
-	
+		
 	width: 100%;
 }
 
 #about-me{
 	background-color:#e6e6e6;
-
 }
 
 #uottawa{
-	padding:50px 0 50px 0;
-	
+	padding:50px 0 50px 0;	
 }
 
 #projects{
@@ -50,7 +44,7 @@ body{
 	padding-top:100px;
 	padding-bottom:100px;
 	background-size: cover;
-	color: grey;
+	color: white;
 	height: 100%;
 	text-align:center;
 	display: flex;
@@ -72,3 +66,17 @@ body{
 .well{
 	background-color: rgba(255,255,255,0.2);
 }
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+a { color: inherit; } 
