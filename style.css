@@ -1,0 +1,82 @@
+html,
+body{
+	height: 100%;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+#cover{
+	background: url('http://res.cloudinary.com/anthonyanader/image/upload/e_grayscale/v1468558850/mac-notebook-rightside.jpg') center center no-repeat;
+	padding-top:;
+	padding-bottom:150px;
+	background-size: cover;
+	
+	color:white ;
+	height: 100%;
+	text-align:center;
+	display: flex;
+	margin:0;
+	align-items:center;
+	vertical-align:top;
+	white-space:nowrap;
+	
+}
+
+#cover-caption{
+		
+	width: 100%;
+}
+
+#about-me{
+	background-color:#e6e6e6;
+}
+
+#uottawa{
+	padding:50px 0 50px 0;	
+}
+
+#projects{
+	background:url('http://res.cloudinary.com/anthonyanader/image/upload/e_grayscale/v1468558846/52_ogv5gj.jpg') center no-repeat;
+	
+	background-size:projects;
+	padding-top:100px;
+	padding-bottom:100px;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align:center;
+	display: flex;
+	align-items:center;
+	
+}
+
+#contactme{
+		background-color:#e6e6e6;
+}
+
+.social-links{
+	color:grey;
+	font-size:50px;
+	height:50px;
+	width:50px;
+}
+
+.well{
+	background-color: rgba(255,255,255,0.2);
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+a { color: inherit; } 
