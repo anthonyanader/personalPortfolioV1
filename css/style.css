@@ -80,3 +80,8 @@ body{
 }
 
 a { color: inherit; } 
+
+.socials{
+	padding-top:30px;
+	padding-bottom:20px;
+}
