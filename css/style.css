@@ -38,8 +38,7 @@ body{
 }
 
 #projects{
-	background:url('http://res.cloudinary.com/anthonyanader/image/upload/e_grayscale/v1468558846/52_ogv5gj.jpg') center no-repeat;
-	
+	background:  linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('http://res.cloudinary.com/anthonyanader/image/upload/e_grayscale/v1468558846/52_ogv5gj.jpg') no-repeat center center fixed;
 	background-size:projects;
 	padding-top:100px;
 	padding-bottom:100px;
