@@ -126,8 +126,6 @@ a{
 
     	font-size: 1.2em;
     }
-
-
 }
 
 @media screen and (max-width: 480px) {
@@ -135,7 +133,10 @@ a{
 
     	font-size: 1.2em;
     }
-
+@media only screen and (max-device-width: 480px) {
+ 	.intro {
+  		font-size: 10px !important;
+ 	} 
 }
 #projects ul{
     list-style: none;
