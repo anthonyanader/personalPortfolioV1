@@ -119,10 +119,23 @@ a{
     section #skills div.container div#skillsleft, section#skills div.container div#frameworkright{
         width: 100%;
     }
+}
+
+@media screen and (max-width: 650px) {
     .intro{
 
     	font-size: 1.2em;
     }
+
+
+}
+
+@media screen and (max-width: 480px) {
+    .intro{
+
+    	font-size: 1.2em;
+    }
+
 }
 #projects ul{
     list-style: none;
