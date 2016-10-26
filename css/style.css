@@ -121,22 +121,14 @@ a{
     }
 }
 
-@media screen and (max-width: 650px) {
-    .intro{
-
-    	font-size: 1.2em;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .intro{
-
-    	font-size: 1.2em;
-    }
 @media only screen and (max-device-width: 480px) {
  	.intro {
   		font-size: 1.2em !important;
  	} 
+ 	.intro2 {
+  		font-size: 1.0em !important;
+ 	} 
+
 }
 #projects ul{
     list-style: none;
