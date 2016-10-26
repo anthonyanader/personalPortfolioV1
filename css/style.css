@@ -116,8 +116,12 @@ a{
     #contactme div.container div.row .col-md-4 h2, #contactme div.container div.row .col-md-4 h3{
         text-align: center;
     }
-    section#skills div.container div#skillsleft, section#skills div.container div#frameworkright{
+    section #skills div.container div#skillsleft, section#skills div.container div#frameworkright{
         width: 100%;
+    }
+    .intro{
+
+    	font-size: 1.2em;
     }
 }
 #projects ul{
