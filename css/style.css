@@ -135,7 +135,7 @@ a{
     }
 @media only screen and (max-device-width: 480px) {
  	.intro {
-  		font-size: 10px !important;
+  		font-size: 1.2em !important;
  	} 
 }
 #projects ul{
