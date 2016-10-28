@@ -120,10 +120,58 @@ a{
     #contactme div.container div.row .col-md-4 h2, #contactme div.container div.row .col-md-4 h3{
         text-align: center;
     }
-    section #skills div.container div#skillsleft div#frameworkright, section#skills div.container{
+    section #skills div.container div#skillsleft, section#skills div.container div#frameworkright{
         width: 100%;
     }
 }
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    .flex-container{
+        flex-direction: column;
+    }
+    .flex-container .col-xs-4{
+        width: 70% !important;
+    }
+    #about-me-container{
+        text-align: justify;
+        width: 100%;
+    }
+    section .container .row .projects-padding{
+        padding-right: 0;
+        width: 95% !important;
+    }
+    #contactme div.container div.row .col-md-4 h2, #contactme div.container div.row .col-md-4 h3{
+        text-align: center;
+    }
+    section #skills div.container div#skillsleft, section#skills div.container div#frameworkright{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    .flex-container{
+        flex-direction: column;
+    }
+    .flex-container .col-xs-4{
+        width: 70% !important;
+    }
+    #about-me-container{
+        text-align: justify;
+        width: 100%;
+    }
+    section .container .row .projects-padding{
+        padding-right: 0;
+        width: 95% !important;
+    }
+    #contactme div.container div.row .col-md-4 h2, #contactme div.container div.row .col-md-4 h3{
+        text-align: center;
+    }
+    section #skills div.container div#skillsleft, section#skills div.container div#frameworkright{
+        width: 100%;
+    }
+}
+
 
 @media only screen and (max-device-width: 480px) {
  	.intro {
