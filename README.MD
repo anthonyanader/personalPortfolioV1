@@ -1,7 +1,9 @@
-# Project: Personal Portfolio V1
+# Project: Personal Portfolio V1 | Built in 2016
+> Very first website
 
-`This is the first version of my personal website built in the summer of 2016 and updated as needed. I am working on a brand new design for V2.`
+I created this site to showcase my work. My "learning to code" journey began with this project.
 
- 
-
-
+## Technologies
+* Bootstrap 3
+* HTML5 | CSS3
+* JavaScript
